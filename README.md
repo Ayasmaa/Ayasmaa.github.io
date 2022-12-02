@@ -47,6 +47,6 @@ especially Hayao Miyazaki and Mamoru Oshii.
 ## sources
 ```sh
 AWE-NIIME, Quentin Quibblo
-```sh
+```
 
 
