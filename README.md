@@ -42,5 +42,11 @@ especially Hayao Miyazaki and Mamoru Oshii.
 - Animated Japanese films and television shows account for 60% of the world's animation-based entertainment.
 - One anime character has 22 different voice actresses.
 
+![image](https://user-images.githubusercontent.com/115502472/205301334-2689df7c-98d4-4784-93b0-041c6a43e0d2.png)
+
+## sources
+```sh
+AWE-NIIME, Quentin Quibblo
+```sh
 
 
